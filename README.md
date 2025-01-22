@@ -60,3 +60,8 @@ Conclusion:
 This project showcases the power of combining API integration and data visualization to create informative and engaging visual representations of real-time data. By utilizing the OpenWeatherMap API along with Python libraries like requests, matplotlib, and seaborn, we can build a robust framework for fetching, processing, and visualizing weather data effectively. This project can be further extended to include more complex visualizations, handle multiple cities, and even forecast weather trends using machine learning techniques. The ease of integrating real-time data through APIs and the ability to visualize it in a clear and compelling manner is invaluable across various applications, from business analytics to education and smart home systems.
 
 By following these steps, you can replicate and expand this project to suit your specific needs, whether you are looking to monitor weather conditions, integrate weather data into your business models, or enhance learning experiences with practical examples of API integration and data visualization. The flexibility and power of the tools used make this project a versatile addition to your data analysis toolkit. Whether you are a beginner or an experienced developer, this project provides a solid foundation for working with APIs and visualizing data in Python.
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/1b0959ac-81b2-4624-8ac0-8003988147c7)
+
